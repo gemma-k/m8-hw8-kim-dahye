@@ -132,7 +132,7 @@ footer {
   color: var(--off-white);
 }
 
-/* responsive design for smaller screens */
+/* responsive design for smaller screens (referenced iphone 16 size) */
 @media (max-width: 500px) {
 
 /* 1. fixing header link */
